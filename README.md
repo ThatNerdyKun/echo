@@ -1,6 +1,6 @@
 # Echo: Music Player
 <p>
-An Extension-based Music Player for Android, designed with a clean and intuitive UI.
+An Extension-based Music Player for Android, designed with a clean and intuitive UI
   
 > **Note:** This project is currently under development and is not ready for public use.
 </p>
